@@ -2,7 +2,7 @@
 
 Class tumblr: http://socialsoftware2015.tumblr.com/
 
-<h3> Porjects and practice examples </h3>
+<h3> Projects and practice examples </h3>
 
 **Social Practice**  
 
@@ -36,9 +36,11 @@ http://www.dumbsto.re/
 Anti-social bots - https://twitter.com/AngryHermitBot
 Darius Kazemi - http://tinysubversions.com/
 
-**Making stuff**  
+<h3>Making stuff</h3>  
 
-Connecting things  
+Processing online - http://p5js.org/
+
+**Connecting things**  
 https://ifttt.com/
 
 
