@@ -4,40 +4,41 @@ Class tumblr: http://socialsoftware2015.tumblr.com/
 
 <h3> Porjects and practice examples </h3>
 
-**Social Practice**
-Recently
+**Social Practice**  
+
+Recently  
 Rick Lowe - http://projectrowhouses.org/
-Historical
+Historical  
 http://www.ubu.com/film/gmc_food.html
 
-<h3>Performing Identity</h3>
+**Performing Identity**  
 http://hifutureself.com/
 http://jonaslund.biz/works/public-access-me/
 
-<h3>Experimental social interactions</h3>
-Without computers:
+**Experimental social interactions**  
+Without computers:  
 http://www.art21.org/files/images/abramovic-art-1974-001-rhythm0_0.jpg
-With computers:
+With computers:  
 http://tanglr.net/
 
-<h3>Help me connect!</h3>
+**Help me connect!**  
 Lauren Mccarthy - https://vimeo.com/110607681
 Creepy stalking app - http://girlsaround.me/
 
-<h3>Help me disconnect!</h3>
+**Help me disconnect!**  
 http://hell.j38.net/
 http://www.allisonburtch.net/log-jammer/
 
-<h3>Inclusive/Participatory Tech</h3>
+**Inclusive/Participatory Tech**  
 http://www.dumbsto.re/
 
-<h3>Autonomous systems</h3>
+**Autonomous systems**  
 Anti-social bots - https://twitter.com/AngryHermitBot
 Darius Kazemi - http://tinysubversions.com/
 
-<h2>Tools</h2>
+**Making stuff**  
 
-<h3>Connecting things</h3>
+Connecting things  
 https://ifttt.com/
 
 
