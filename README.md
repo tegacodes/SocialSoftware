@@ -1,6 +1,8 @@
-Social Software, 2014 at SUNY Purchase
+<h1>Social Software, Spring 2015 at SUNY Purchase<.h1>
 
-Social Practice
+Class tumblr: http://socialsoftware2015.tumblr.com/
+
+<h2>Social Practice</h2>
 http://projectrowhouses.org/
 
 Performing Identity
