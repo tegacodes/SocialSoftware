@@ -2,9 +2,9 @@
 
 Class tumblr: http://socialsoftware2015.tumblr.com/
 
-<h3>Artists, designers, practice examples </h3>
+<h3> Porjects and practice examples </h3>
 
-<em>Social Practice</em>
+**Social Practice**
 Recently
 Rick Lowe - http://projectrowhouses.org/
 Historical
