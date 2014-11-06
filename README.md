@@ -1,4 +1,5 @@
-<h1>Social Software, Spring 2015 at SUNY Purchase</h1>
+<h1>Social Software</h1>
+Spring 2015 at SUNY Purchase  
 
 Class tumblr: http://socialsoftware2015.tumblr.com/
 
