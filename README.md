@@ -10,8 +10,8 @@ Class tumblr: http://socialsoftware2015.tumblr.com/
 Recently  
 Rick Lowe, Project Row Houses - http://projectrowhouses.org/    
 Vicory Meadow - https://www.facebook.com/TranslationVickeryMeadow  
-Caroline Woolard, Our Goods - https://ourgoods.org/
-Gapfiller, NZ - http://www.gapfiller.org.nz/think-differently-book-exchange/
+Caroline Woolard, Our Goods - https://ourgoods.org/  
+Gapfiller, NZ - http://www.gapfiller.org.nz/think-differently-book-exchange/  
 Historical  
 Gordon Matta Clark, Food, 1970s - http://www.ubu.com/film/gmc_food.html  
 
@@ -22,13 +22,21 @@ Jonas Lund - http://jonaslund.biz/works/public-access-me/
 **Experimental social interactions**  
 Without computers:  
 Marina Ambramovic - http://www.art21.org/files/images/abramovic-art-1974-001-rhythm0_0.jpg  
+Reliable Table - Liz Tuburgen and Caroline Woolard - http://6footcollaboratory.blogspot.com/2007/11/reliable-table.html  
+Reliable Structures - http://6footcollaboratory.blogspot.com/2007/11/reliable-structures.html  
+
 With computers: 
 Brian House - http://tanglr.net/  
 
 **Help me connect!**  
-Lauren Mccarthy - https://vimeo.com/110607681  
+Social Prosthetics    
+Lauren Mccarthy, Tools for improved social interaction - http://lauren-mccarthy.com/socialinteracting/   
+Conversacube - http://lauren-mccarthy.com/conversacube/  
+Kelly Dobson, Scream Body - http://web.media.mit.edu/~monster/screambody/  
+Apps  
 Creepy stalking app - http://girlsaround.me/  
-Dan Phiffer, Occupy Here - http://occupyhere.org/
+Network experiments   
+Dan Phiffer, Occupy Here - http://occupyhere.org/  
 
 **Help me disconnect!**  
 Scott Garner - http://hell.j38.net/  
@@ -43,7 +51,7 @@ Darius Kazemi - http://tinysubversions.com/
 
 <h3>Making stuff</h3>  
 
-Processing online - http://p5js.org/
+Processing online - http://p5js.org/  
 How to build your own wifi router - https://github.com/occupyhere/occupy.here/wiki/How-to-build-Occupy.here
 
 **Connecting things**  
