@@ -35,8 +35,6 @@ Conversacube - http://lauren-mccarthy.com/conversacube/
 Kelly Dobson, Scream Body - http://web.media.mit.edu/~monster/screambody/  
 Apps  
 Creepy stalking app - http://girlsaround.me/  
-Network experiments   
-Dan Phiffer, Occupy Here - http://occupyhere.org/  
 
 **Help me disconnect!**  
 Scott Garner - http://hell.j38.net/  
@@ -44,6 +42,7 @@ Allison Burtch, Log Jammer - http://www.allisonburtch.net/log-jammer/
 
 **Inclusive/Participatory Tech**  
 Allison Burtch and Ramsey Nasser - Dumb Store - http://www.dumbsto.re/  
+Dan Phiffer, Occupy Here - http://occupyhere.org/ 
 
 **Autonomous systems**  
 Tega Brain and Brian House, Anti-social bot - https://twitter.com/AngryHermitBot  
