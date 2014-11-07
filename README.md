@@ -11,6 +11,7 @@ Recently
 Rick Lowe, Project Row Houses - http://projectrowhouses.org/    
 Vicory Meadow - https://www.facebook.com/TranslationVickeryMeadow  
 Caroline Woolard, Our Goods - https://ourgoods.org/
+Gapfiller, NZ - http://www.gapfiller.org.nz/think-differently-book-exchange/
 Historical  
 Gordon Matta Clark, Food, 1970s - http://www.ubu.com/film/gmc_food.html  
 
@@ -27,6 +28,7 @@ Brian House - http://tanglr.net/
 **Help me connect!**  
 Lauren Mccarthy - https://vimeo.com/110607681  
 Creepy stalking app - http://girlsaround.me/  
+Dan Phiffer, Occupy Here - http://occupyhere.org/
 
 **Help me disconnect!**  
 Scott Garner - http://hell.j38.net/  
@@ -42,6 +44,7 @@ Darius Kazemi - http://tinysubversions.com/
 <h3>Making stuff</h3>  
 
 Processing online - http://p5js.org/
+How to build your own wifi router - https://github.com/occupyhere/occupy.here/wiki/How-to-build-Occupy.here
 
 **Connecting things**  
 https://ifttt.com/
