@@ -7,12 +7,12 @@ Class tumblr: http://socialsoftware2015.tumblr.com/
 
 **Social Practice**  
 
-Recently  
+*Recently*  
 Rick Lowe, Project Row Houses - http://projectrowhouses.org/    
 Vicory Meadow - https://www.facebook.com/TranslationVickeryMeadow  
 Caroline Woolard, Our Goods - https://ourgoods.org/  
 Gapfiller, NZ - http://www.gapfiller.org.nz/think-differently-book-exchange/  
-Historical  
+*Historical*  
 Gordon Matta Clark, Food, 1970s - http://www.ubu.com/film/gmc_food.html  
 
 **Performing Identity**  
@@ -20,21 +20,24 @@ http://hifutureself.com/
 Jonas Lund - http://jonaslund.biz/works/public-access-me/  
 
 **Experimental social interactions**  
-Without computers:  
+*Without computers:*  
 Marina Ambramovic - http://www.art21.org/files/images/abramovic-art-1974-001-rhythm0_0.jpg  
 Reliable Table - Liz Tuburgen and Caroline Woolard - http://6footcollaboratory.blogspot.com/2007/11/reliable-table.html  
 Reliable Structures - http://6footcollaboratory.blogspot.com/2007/11/reliable-structures.html  
 
-With computers: 
+*With computers:*   
 Brian House - http://tanglr.net/  
 
 **Help me connect!**  
-Social Prosthetics    
+*Social Prosthetics*    
 Lauren Mccarthy, Tools for improved social interaction - http://lauren-mccarthy.com/socialinteracting/   
 Conversacube - http://lauren-mccarthy.com/conversacube/  
 Kelly Dobson, Scream Body - http://web.media.mit.edu/~monster/screambody/  
-Apps  
-Creepy stalking app - http://girlsaround.me/  
+*Apps and Add-ons*  
+Lauren Maccarthy, Crowd Pilot - http://www.crowdpilot.me/
+Lauren Maccarthy and Kyle Mcdonald - http://lauren-mccarthy.com/usplus/  
+*Creepy stalking apps* 
+http://girlsaround.me/  
 
 **Help me disconnect!**  
 Scott Garner - http://hell.j38.net/  
