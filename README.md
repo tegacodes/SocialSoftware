@@ -24,8 +24,8 @@ Jonas Lund - http://jonaslund.biz/works/public-access-me/
 Marina Ambramovic - http://www.art21.org/files/images/abramovic-art-1974-001-rhythm0_0.jpg  
 Reliable Table - Liz Tuburgen and Caroline Woolard - http://6footcollaboratory.blogspot.com/2007/11/reliable-table.html  
 Reliable Structures - http://6footcollaboratory.blogspot.com/2007/11/reliable-structures.html  
-Steve Lambert, Talk With Anyone, http://visitsteve.com/made/talkwithanyone/
-Capitalism Works for Me, http://visitsteve.com/made/capitalism-works-for-me-truefalse/
+Steve Lambert, Talk With Anyone, http://visitsteve.com/made/talkwithanyone/  
+Capitalism Works for Me, http://visitsteve.com/made/capitalism-works-for-me-truefalse/  
 
 *With computers:*   
 Brian House - http://tanglr.net/  
@@ -45,15 +45,18 @@ http://girlsaround.me/
 Scott Garner - http://hell.j38.net/  
 Allison Burtch, Log Jammer, http://www.allisonburtch.net/log-jammer/  
 Steve Lambert, Self Control, http://visitsteve.com/made/selfcontrol/  
-Aram Bartholl, Silver Cell, http://www.datenform.de/silvereng.html
+Aram Bartholl, Silver Cell, http://www.datenform.de/silvereng.html  
 
 **Inclusive/Participatory Tech**  
 Allison Burtch and Ramsey Nasser - Dumb Store - http://www.dumbsto.re/  
-Dan Phiffer, Occupy Here - http://occupyhere.org/ 
+Dan Phiffer, Occupy Here - http://occupyhere.org/  
 
 **Autonomous systems**  
 Tega Brain and Brian House, Anti-social bot - https://twitter.com/AngryHermitBot  
 Darius Kazemi - http://tinysubversions.com/  
+
+<h3>Readings</h3>
+Radical Street Performance, http://search.idsproject.org/index.php?view=ids_holdings&oclc_symbol=ZPM&number_type=oclc&number=37928435&search_scope=worldcat  
 
 <h3>Making stuff</h3>  
 
