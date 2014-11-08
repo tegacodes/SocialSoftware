@@ -24,6 +24,8 @@ Jonas Lund - http://jonaslund.biz/works/public-access-me/
 Marina Ambramovic - http://www.art21.org/files/images/abramovic-art-1974-001-rhythm0_0.jpg  
 Reliable Table - Liz Tuburgen and Caroline Woolard - http://6footcollaboratory.blogspot.com/2007/11/reliable-table.html  
 Reliable Structures - http://6footcollaboratory.blogspot.com/2007/11/reliable-structures.html  
+Steve Lambert, Talk With Anyone, http://visitsteve.com/made/talkwithanyone/
+Capitalism Works for Me, http://visitsteve.com/made/capitalism-works-for-me-truefalse/
 
 *With computers:*   
 Brian House - http://tanglr.net/  
@@ -41,7 +43,9 @@ http://girlsaround.me/
 
 **Help me disconnect!**  
 Scott Garner - http://hell.j38.net/  
-Allison Burtch, Log Jammer - http://www.allisonburtch.net/log-jammer/  
+Allison Burtch, Log Jammer, http://www.allisonburtch.net/log-jammer/  
+Steve Lambert, Self Control, http://visitsteve.com/made/selfcontrol/  
+Aram Bartholl, Silver Cell, http://www.datenform.de/silvereng.html
 
 **Inclusive/Participatory Tech**  
 Allison Burtch and Ramsey Nasser - Dumb Store - http://www.dumbsto.re/  
