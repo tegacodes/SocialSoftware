@@ -23,6 +23,8 @@ Gordon Matta Clark, Food, 1970s - http://www.ubu.com/film/gmc_food.html
 Bulletin boards, geocities, friendstar, myspace, facebook and ello. What has driven the evolution of social networks and how have they shaped the world we live in?
 
 **Performing Identity**  
+Reputation based economies, algorithmic influence, outsourcing memory, how does software change our relationship to ourselves?
+Muchon Zer Aviv - Turing Normalising Machine - http://mushon.com/tnm/
 http://hifutureself.com/  
 Jonas Lund - http://jonaslund.biz/works/public-access-me/  
 
@@ -62,6 +64,7 @@ Dan Phiffer, Occupy Here - http://occupyhere.org/
 Eliza - http://www.manifestation.com/neurotoys/eliza.php3  
 Tega Brain and Brian House, Anti-social bot - https://twitter.com/AngryHermitBot   
 Darius Kazemi - http://tinysubversions.com/  
+A Lonely Project - https://twitter.com/alonelyproject
 
 **Digital Labor and Modes of Production**  
 Mechanical Turk - https://www.mturk.com/mturk/welcome    
@@ -74,7 +77,7 @@ Tevor Paglan - http://www.paglen.com/?l=work&s=symbology
 Julian Oliver - http://julianoliver.com/output/category/projects  
 Jacob Appelbaum - http://en.wikipedia.org/wiki/Jacob_Appelbaum  
 Heather Dewey Hagborg - Stranger Visions - http://deweyhagborg.com/strangervisions/  
-Tor and other tools for masking yourself online  
+Tor and other tools for masking yourself online  - https://www.torproject.org/projects/torbrowser.html.en  
 
 <h3>Readings</h3>
 Radical Street Performance, http://search.idsproject.org/index.php?view=ids_holdings&oclc_symbol=ZPM&number_type=oclc&number=37928435&search_scope=worldcat  
