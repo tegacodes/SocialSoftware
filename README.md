@@ -19,7 +19,7 @@ Gapfiller, NZ - http://www.gapfiller.org.nz/think-differently-book-exchange/
 *Historical*  
 Gordon Matta Clark, Food, 1970s - http://www.ubu.com/film/gmc_food.html  
 
-**History of Social Computing**
+**History of Social Computing**  
 Bulletin boards, geocities, friendstar, myspace, facebook and ello. What has driven the evolution of social networks and how have they shaped the world we live in?
 
 **Performing Identity**  
