@@ -72,7 +72,7 @@ Soft spaces, Amazon warehouses - http://www.radiolab.org/story/brown-box/
 Clement Valla - http://clementvalla.com/work/a-sequence-of-lines-traced-by-500-individuals/  
 http://clementvalla.com/2013/06/two-paintings-in-a-show-curated-by-a-e-benenson-at-bitforms-in-nyc/  
 
-**Security and Surveillence. Who is listening? So what?**
+**Security and Surveillence. Who is listening? But so what, I've got nothing to hide?**  
 Tevor Paglan - http://www.paglen.com/?l=work&s=symbology  
 Julian Oliver - http://julianoliver.com/output/category/projects  
 Jacob Appelbaum - http://en.wikipedia.org/wiki/Jacob_Appelbaum  
