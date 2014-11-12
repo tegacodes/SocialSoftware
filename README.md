@@ -1,12 +1,12 @@
 <h1>Social Software</h1>
-Spring 2015 at SUNY Purchase  
+Spring 2015 at SUNY Purchase 
+
+Class tumblr: http://socialsoftware2015.tumblr.com/
 
 We now spend more time with our devices than we do with our friends and loved ones. We sleep next to these little computers and imagine their vibrations in our pockets even when they are still. Our daily social interactions are increasingly mediated by these machines – their glowing screens, their software interfaces and the invisible networks of signals, servers and cables that connect them. How are these technologies changing how we relate each other? Are they enabling us to build better relationships and understand ourselves in new ways? This course investigates these central questions both from both critical and technical perspectives.
 
 We will consider the nature of software and historic and contemporary works by artists, technologists and researchers investigating social conventions. From this context students will enhance their creative and technical skills by developing a series of creative online and offline works. Projects will explore how computational technologies shape and are shaped by our social norms, human desires and behaviours. They will range from conceptual proposals through to the development basic software applications that interact with online media platforms.
 
-
-Class tumblr: http://socialsoftware2015.tumblr.com/
 
 <h3> Projects and practice examples </h3>
 
