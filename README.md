@@ -58,19 +58,35 @@ Aram Bartholl, Silver Cell, http://www.datenform.de/silvereng.html
 Allison Burtch and Ramsey Nasser - Dumb Store - http://www.dumbsto.re/  
 Dan Phiffer, Occupy Here - http://occupyhere.org/  
 
-**Autonomous systems**  
-Tega Brain and Brian House, Anti-social bot - https://twitter.com/AngryHermitBot  
+**Artificial Intelligence and Autonomous systems**  
+Eliza - http://www.manifestation.com/neurotoys/eliza.php3  
+Tega Brain and Brian House, Anti-social bot - https://twitter.com/AngryHermitBot   
 Darius Kazemi - http://tinysubversions.com/  
+
+**Digital Labor and Modes of Production**  
+Mechanical Turk - https://www.mturk.com/mturk/welcome    
+Soft spaces, Amazon warehouses - http://www.radiolab.org/story/brown-box/  
+Clement Valla - http://clementvalla.com/work/a-sequence-of-lines-traced-by-500-individuals/  
+http://clementvalla.com/2013/06/two-paintings-in-a-show-curated-by-a-e-benenson-at-bitforms-in-nyc/  
+
+**Security and Surveillence. Who is listening? So what?**
+Tevor Paglan - http://www.paglen.com/?l=work&s=symbology  
+Julian Oliver - http://julianoliver.com/output/category/projects  
+Jacob Appelbaum - http://en.wikipedia.org/wiki/Jacob_Appelbaum  
+Heather Dewey Hagborg - Stranger Visions - http://deweyhagborg.com/strangervisions/  
+Tor and other tools for masking yourself online  
 
 <h3>Readings</h3>
 Radical Street Performance, http://search.idsproject.org/index.php?view=ids_holdings&oclc_symbol=ZPM&number_type=oclc&number=37928435&search_scope=worldcat  
 
-<h3>Making stuff</h3>  
+<h3>Tools for Hacking, Making and Building</h3>  
 
 Processing online - http://p5js.org/  
+If this then that - https://ifttt.com/  
+
+**Tutorials**
 How to build your own wifi router - https://github.com/occupyhere/occupy.here/wiki/How-to-build-Occupy.here
 
-**Connecting things**  
-https://ifttt.com/
+
 
 
