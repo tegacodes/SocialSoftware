@@ -79,9 +79,6 @@ Jacob Appelbaum - http://en.wikipedia.org/wiki/Jacob_Appelbaum
 Heather Dewey Hagborg - Stranger Visions - http://deweyhagborg.com/strangervisions/  
 Tor and other tools for masking yourself online  - https://www.torproject.org/projects/torbrowser.html.en  
 
-<h3>Readings</h3>
-Radical Street Performance, http://search.idsproject.org/index.php?view=ids_holdings&oclc_symbol=ZPM&number_type=oclc&number=37928435&search_scope=worldcat  
-
 <h3>Tools for Hacking, Making and Building</h3>  
 
 Processing online - http://p5js.org/  
