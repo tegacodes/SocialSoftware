@@ -5,8 +5,7 @@ Class tumblr: http://socialsoftware2015.tumblr.com/
 
 <h3> Projects and practice examples </h3>
 
-**Social Practice**  
-
+**What is social practice?**  
 *Recently*  
 Rick Lowe, Project Row Houses - http://projectrowhouses.org/    
 Vicory Meadow - https://www.facebook.com/TranslationVickeryMeadow  
@@ -14,6 +13,9 @@ Caroline Woolard, Our Goods - https://ourgoods.org/
 Gapfiller, NZ - http://www.gapfiller.org.nz/think-differently-book-exchange/  
 *Historical*  
 Gordon Matta Clark, Food, 1970s - http://www.ubu.com/film/gmc_food.html  
+
+**History of Social Computing**
+Bulletin boards, geocities, friendstar, myspace, facebook and ello. What has driven the evolution of social networks and how have they shaped the world we live in?
 
 **Performing Identity**  
 http://hifutureself.com/  
