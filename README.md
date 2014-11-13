@@ -10,10 +10,10 @@ We now spend more time with our devices than we do with our friends and loved on
 
 We will consider the nature of software and historic and contemporary works by artists, technologists and researchers investigating social conventions and the new possibilities offered by technology. From this context students will enhance their creative and technical skills by developing a series of creative online and offline works. Projects will explore how computational technologies shape and are shaped by our social norms, human desires and behaviours, ranging from conceptual proposals through to the development basic software applications that interact with data and online media platforms.
 
-<h3>Assessment </h3>  
-Assignment 1, 2 and 3 (20% each)
-Homework (20%)
-Attendance and participation (20%)
+<h3>Assessment </h3>
+Assignment 1, 2 and 3 (20% each)  
+Homework (20%)  
+Attendance and participation (20%)  
 
 <h3>Artist projects and practice</h3>
 
@@ -26,8 +26,8 @@ Rick Lowe, Project Row Houses - http://projectrowhouses.org/
 Vicory Meadow - https://www.facebook.com/TranslationVickeryMeadow/  
 Gapfiller, NZ - http://www.gapfiller.org.nz/think-differently-book-exchange/
 Future Farmers - http://www.futurefarmers.com/  
-Conflict Kitchen - http://conflictkitchen.org/
-*Networked Social Practice*
+Conflict Kitchen - http://conflictkitchen.org/  
+*Networked Social Practice*  
 Caroline Woolard, Our Goods - https://ourgoods.org/  
 Trade School - http://tradeschool.coop/  
 Rolling Jubilee - http://rollingjubilee.org/  
@@ -94,7 +94,7 @@ Heather Dewey Hagborg - Stranger Visions - http://deweyhagborg.com/strangervisio
 Tor and other tools for masking yourself online  - https://www.torproject.org/projects/torbrowser.html.en  
 Social Practice + Surviellance - Cryptoparty - https://www.cryptoparty.in/  
 
-<h3>Readings<h3>  
+<h3>Readings</h3>  
 
 Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry.  
 
@@ -111,7 +111,7 @@ Singer, Peter. (2011). Visible Man: ethics in a world without secrets. Harper’
 Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/blprnt/art-and-the-api  
 
 Turkle, Sherry. (2012). Alone together: Why we expect more from technology and less from each other. Basic books. Introduction.  
-
+  
 <h3>Tools for Hacking, Making and Building</h3>  
 
 Processing online - http://p5js.org/  
