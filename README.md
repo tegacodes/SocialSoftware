@@ -17,15 +17,19 @@ Homework (20%)
 Attendance and participation (20%)  
 
 <h3>Topics</h3>
-<h4>Art and Social practice in digital networks </h4> 
+<h4>Art and Social practice in digital networks </h4>
 [Art, participation and engagement](https://github.com/tegacodes/socialsoftware/wiki/Week-1:-Art-and-Social-Practice)  
 [Social computing](https://github.com/tegacodes/socialsoftware/wiki/Week-2:-Social-Computing)  
 [Intervention, bots and intelligence](https://github.com/tegacodes/socialsoftware/wiki/Week-3:-Intervention,-bots-and-intelligence)  
 
-**Readings**    
+**Readings**
 Bishop, Claire (2006). The Social Turn, Collaboration and its discontents. Art Forum.  
 
-Shirky, Clay. (2012) "Gin, Television, and Social Surplus." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [Online here](https://archive.org/details/TheSocialMediaReader)    
+Shirky, Clay. (2008). Here comes everyone: The Power of Organizing without Organizisation. New York: Penguin Press. (Chapter 1).  
+
+Shirky, Clay. (2012). "Gin, Television, and Social Surplus." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [Online here](https://archive.org/details/TheSocialMediaReader)  
+
+Gladwell, Malcom. (2010). Small Change. The New Yorker. [Online here.] (http://www.newyorker.com/magazine/2010/10/04/small-change-3)  
 
 Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/blprnt/art-and-the-api  
 
@@ -34,8 +38,8 @@ Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/b
 [Experimental social interaction](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
 [Social prosthetics](https://github.com/tegacodes/socialsoftware/wiki/Week-8:-Social-prosthetics)  
 
-**Readings**   
-Turkle, Sherry. (2012). Alone together: Why we expect more from technology and less from each other. Basic books. Introduction. 
+**Readings**
+Turkle, Sherry. (2012). Alone together: Why we expect more from technology and less from each other. Basic books. Introduction.
 
 boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [Online here]([https://archive.org/details/TheSocialMediaReader)  
 
@@ -44,10 +48,10 @@ Jonze, Spike. (2012). Her (Feature Film)
 <h4>Politics of Social Technologies - eccentric engineering and other tactics for change</h4>  
 [Digital labor and modes of production](https://github.com/tegacodes/socialsoftware/wiki/Week-11:-Digital-Labor-and-Modes-of-Production)  
 [But I've got nothing to hide](https://github.com/tegacodes/socialsoftware/wiki/Week-12:-But-I've-got-nothing-to-hide!)  
-[Technologies for inclusion and participation](https://github.com/tegacodes/socialsoftware/wiki/Week-10:-Inclusive,-participatory-technologies) 
+[Technologies for inclusion and participation](https://github.com/tegacodes/socialsoftware/wiki/Week-10:-Inclusive,-participatory-technologies)
 
 **Readings**  
-Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry. [Online here.](http://thenewinquiry.com/essays/the-anxieties-of-big-data/) 
+Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry. [Online here.](http://thenewinquiry.com/essays/the-anxieties-of-big-data/)
 
 Oliver, Savičić and Vasiliev. (2011). Critical Engineering Manifesto. [Online here.](http://criticalengineering.org/).  
 
