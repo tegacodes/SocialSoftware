@@ -3,6 +3,7 @@ Spring 2015 at SUNY Purchase
 MAT 3540/4 credits  
 Tuesday 2.30-6.10  
 
+Course wiki: https://github.com/tegacodes/socialsoftware/wiki
 Class tumblr: http://socialsoftware2015.tumblr.com/  
 Google group mailing list:  TBA
 
