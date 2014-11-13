@@ -19,7 +19,7 @@ Attendance and participation (20%)
 <h4>Art and Social practice in digital networks </h4> 
 [Art, participation and engagement](https://github.com/tegacodes/socialsoftware/wiki/Week-1:-Art-and-Social-Practice)  
 [Social computing](https://github.com/tegacodes/socialsoftware/wiki/Week-2:-Social-Computing)  
-[Language & intelligence (and bots)](https://github.com/tegacodes/socialsoftware/wiki/Week-3:-Language,-intelligence-and-autonomous-systems)  
+[Intervention, bots and intelligence](https://github.com/tegacodes/socialsoftware/wiki/Week-3:-Language,-intelligence-and-autonomous-systems)  
 
 **Readings**    
 Bishop, Claire (2006). The Social Turn, Collaboration and its discontents. Art Forum.  
