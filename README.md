@@ -15,7 +15,9 @@ Assignment 1, 2 and 3 (20% each)
 Homework (20%)  
 Attendance and participation (20%)  
 
-<h3>Artist projects and practice</h3>
+<h3>Art and Social practice in digital networks </h3>  
+
+<h4>Practice and Projects</h4>  
 
 **Art and social practice**  
 Participation and engagement  
@@ -36,6 +38,23 @@ Art and feminism - female artist wiki-a-thon - http://eyebeam.org/events/art-fem
 
 **History of Social Computing**  
 Bulletin boards, geocities, friendstar, myspace, facebook and ello. The Blogosphere, microblogging, social network theory, social capital, reputation based economies and ambient intimacy. What drives social networks and how have they shaped the world we live in?  
+
+**Language, artificial Intelligence and Autonomous systems**  
+Eliza - http://www.manifestation.com/neurotoys/eliza.php3  
+Tega Brain and Brian House, Anti-social bot - https://twitter.com/AngryHermitBot  
+Darius Kazemi - http://tinysubversions.com/
+A Lonely Project - https://twitter.com/alonelyproject
+
+<h4>Readings</h4>  
+Bishop, Claire (2006). The Social Turn, Collaboration and its discontents. Art Forum.  
+
+Shirky, Clay. (2012) "Gin, Television, and Social Surplus." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [https://archive.org/details/TheSocialMediaReader]    
+
+Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/blprnt/art-and-the-api  
+
+<h3>Help or Hinderance: mediating social interaction and identity </h3>  
+
+<h4>Practice and Projects</h4>
 
 **Performing Identity**  
 Reputation based economies, algorithmic influence, outsourcing memory, how does software change who we are and how we behave? How does it change our relationship self?  
@@ -70,16 +89,21 @@ Allison Burtch, Log Jammer, http://www.allisonburtch.net/log-jammer/
 Steve Lambert, Self Control, http://visitsteve.com/made/selfcontrol/  
 Aram Bartholl, Silver Cell, http://www.datenform.de/silvereng.html  
 
-**Inclusive/Participatory Technology**  
-Networks, technologies and social change.
-Allison Burtch and Ramsey Nasser - Dumb Store - http://www.dumbsto.re/  
-Dan Phiffer, Occupy Here - http://occupyhere.org/  
+<h4>Readings</h4>  
+Turkle, Sherry. (2012). Alone together: Why we expect more from technology and less from each other. Basic books. Introduction.  
 
-**Artificial Intelligence and Autonomous systems**  
-Eliza - http://www.manifestation.com/neurotoys/eliza.php3  
-Tega Brain and Brian House, Anti-social bot - https://twitter.com/AngryHermitBot  
-Darius Kazemi - http://tinysubversions.com/
-A Lonely Project - https://twitter.com/alonelyproject  
+boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [https://archive.org/details/TheSocialMediaReader]  
+
+Jonze, Spike. (2012). Her (Feature Film)  
+
+<h3>Politics of Social Technologies - Advocacy, action and eccentric engineering </h3>  
+
+<h4>Practice and Projects</h4>  
+
+**Inclusive/Participatory Technology**  
+Networks, technologies and social change.  
+Allison Burtch and Ramsey Nasser - Dumb Store - http://www.dumbsto.re/  
+Dan Phiffer, Occupy Here - http://occupyhere.org/
 
 **Digital Labor and Modes of Production**  
 Mechanical Turk - https://www.mturk.com/mturk/welcome  
@@ -89,38 +113,30 @@ http://clementvalla.com/2013/06/two-paintings-in-a-show-curated-by-a-e-benenson-
 
 **Security and Surveillence. So what, I've got nothing to hide!**  
 Tevor Paglan - http://www.paglen.com/?l=work&s=symbology  
-Julian Oliver - http://julianoliver.com/output/category/projects
+Julian Oliver - http://julianoliver.com/output/category/projects  
 Surya Mattu- http://suryamattu.com/FROM-THE-DARK  
 Heather Dewey Hagborg - Stranger Visions - http://deweyhagborg.com/strangervisions/  
 Tor and other tools for masking yourself online  - https://www.torproject.org/projects/torbrowser.html.en  
 Social Practice + Surviellance - Cryptoparty - https://www.cryptoparty.in/  
 
-<h3>Readings</h3>  
+<h4>Readings</h4>  
 
 Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry.  
 
-Deleuze, Gilles. Postscript on control societies. 1972-1990 (1995). October, Vol. 59. (Winter, 1992), pp. 3-7.  
+Deleuze, Gilles. Postscript on control societies. 1972-1990 (1995). October, Vol. 59. (Winter, 1992), pp. 3-7.
 
 Galloway, Alexander R. (2004). Protocol: how control exists after decentralization. MIT press. Introduction.  
 
-Jonze, Spike. (2012). Her (Feature Film)
-
-Shirky, Clay. (2012) Gin, Television, and Social Surplus. Social Media Reader.  
-
 Singer, Peter. (2011). Visible Man: ethics in a world without secrets. Harper’s Magazine, 31-36.  
 
-Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/blprnt/art-and-the-api  
-
-Turkle, Sherry. (2012). Alone together: Why we expect more from technology and less from each other. Basic books. Introduction.  
-
-<h3>Tools for Hacking, Making and Building</h3>  
+<h3>Tools for Hacking, Making and Building</h3>
 
 Processing online - http://p5js.org/  
 If this then that - https://ifttt.com/  
 Servi - your own simple server - https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi  
 Servi Documentation - https://github.com/antiboredom/servi.js/wiki  
 
-**Tutorials**  
+**Teach yourself stuff**  
 Convert from Processing to p5.js - https://github.com/lmccart/p5.js/wiki/Processing-transition  
 How to build your own wifi router - https://github.com/occupyhere/occupy.here/wiki/How-to-build-Occupy.here  
 Packet Sniffing Tutorial - http://suryamattu.com/PACKET-SNIFFING-TUTORIAL  
