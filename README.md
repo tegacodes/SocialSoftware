@@ -17,8 +17,8 @@ Attendance and participation (20%)
 
 <h3>Topics</h3>
 <h4>Art and Social practice in digital networks </h4> 
-[Art,participation and engagement](https://github.com/tegacodes/socialsoftware/wiki/Week-1:-Art-and-Social-Practice)  
-[Social Computing](https://github.com/tegacodes/socialsoftware/wiki/Week-2:-Social-Computing)  
+[Art, participation and engagement](https://github.com/tegacodes/socialsoftware/wiki/Week-1:-Art-and-Social-Practice)  
+[Social computing](https://github.com/tegacodes/socialsoftware/wiki/Week-2:-Social-Computing)  
 [Language & intelligence (and bots)](https://github.com/tegacodes/socialsoftware/wiki/Week-3:-Language,-intelligence-and-autonomous-systems)  
 
 **Readings**    
@@ -28,10 +28,10 @@ Shirky, Clay. (2012) "Gin, Television, and Social Surplus." The Social Media Rea
 
 Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/blprnt/art-and-the-api  
 
-<h4>Help or Hinderance: mediating social interaction and identity </h4>  
-[Performing Identity](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
-[Experimental Social Interaction](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
-[Social Prosthetics](https://github.com/tegacodes/socialsoftware/wiki/Week-8:-Social-prosthetics)  
+<h4>Help || Hinderance: mediating social interaction and identity </h4>  
+[Performing identity](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
+[Experimental social interaction](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
+[Social prosthetics](https://github.com/tegacodes/socialsoftware/wiki/Week-8:-Social-prosthetics)  
 
 **Readings**   
 Turkle, Sherry. (2012). Alone together: Why we expect more from technology and less from each other. Basic books. Introduction. 
@@ -40,8 +40,8 @@ boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Medi
 
 Jonze, Spike. (2012). Her (Feature Film)  
 
-<h4>Politics of Social Technologies - eccentric engineering and other tactics for change </h4>  
-[Digital Labor and modes of Production](https://github.com/tegacodes/socialsoftware/wiki/Week-11:-Digital-Labor-and-Modes-of-Production)  
+<h4>Politics of Social Technologies - eccentric engineering and other tactics</h4>  
+[Digital labor and modes of production](https://github.com/tegacodes/socialsoftware/wiki/Week-11:-Digital-Labor-and-Modes-of-Production)  
 [But I've got nothing to hide](https://github.com/tegacodes/socialsoftware/wiki/Week-12:-But-I've-got-nothing-to-hide!)  
 [Technologies for inclusion and participation](https://github.com/tegacodes/socialsoftware/wiki/Week-10:-Inclusive,-participatory-technologies) 
 
