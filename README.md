@@ -21,7 +21,7 @@ Attendance and participation (20%)
 [Social Computing](https://github.com/tegacodes/socialsoftware/wiki/Week-2:-Social-Computing)  
 [Language & intelligence (and bots)](https://github.com/tegacodes/socialsoftware/wiki/Week-3:-Language,-intelligence-and-autonomous-systems)  
 
-**Readings**  
+**Readings**    
 Bishop, Claire (2006). The Social Turn, Collaboration and its discontents. Art Forum.  
 
 Shirky, Clay. (2012) "Gin, Television, and Social Surplus." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [https://archive.org/details/TheSocialMediaReader]    
@@ -33,7 +33,7 @@ Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/b
 [Experimental Social Interaction](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
 [Social Prosthetics](https://github.com/tegacodes/socialsoftware/wiki/Week-8:-Social-prosthetics)  
 
-**Readings** 
+**Readings**   
 Turkle, Sherry. (2012). Alone together: Why we expect more from technology and less from each other. Basic books. Introduction. 
 
 boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [https://archive.org/details/TheSocialMediaReader]  
@@ -45,7 +45,7 @@ Jonze, Spike. (2012). Her (Feature Film)
 [But I've got nothing to hide](https://github.com/tegacodes/socialsoftware/wiki/Week-12:-But-I've-got-nothing-to-hide!)  
 [Technologies for inclusion and participation](https://github.com/tegacodes/socialsoftware/wiki/Week-10:-Inclusive,-participatory-technologies) 
 
-**Readings**
+**Readings**  
 Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry.  
 
 Deleuze, Gilles. Postscript on control societies. 1972-1990 (1995). October, Vol. 59. (Winter, 1992), pp. 3-7.
