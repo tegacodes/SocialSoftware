@@ -16,7 +16,7 @@ Homework (20%)
 Attendance and participation (20%)  
 
 <h3>Topics</h3>
-<h3>Art and Social practice in digital networks </h3> 
+<h4>Art and Social practice in digital networks </h4> 
 [Art,participation and engagement](https://github.com/tegacodes/socialsoftware/wiki/Week-1)  
 [Social Computing](https://github.com/tegacodes/socialsoftware/wiki/Week-2:-Social-Computing)  
 [Language & intelligence (and bots)](https://github.com/tegacodes/socialsoftware/wiki/Week-3:-Language,-intelligence-and-autonomous-systems)  
