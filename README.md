@@ -40,7 +40,7 @@ boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Medi
 
 Jonze, Spike. (2012). Her (Feature Film)  
 
-<h4>Politics of Social Technologies - eccentric engineering and other tactics</h4>  
+<h4>Politics of Social Technologies - eccentric engineering and other tactics for change</h4>  
 [Digital labor and modes of production](https://github.com/tegacodes/socialsoftware/wiki/Week-11:-Digital-Labor-and-Modes-of-Production)  
 [But I've got nothing to hide](https://github.com/tegacodes/socialsoftware/wiki/Week-12:-But-I've-got-nothing-to-hide!)  
 [Technologies for inclusion and participation](https://github.com/tegacodes/socialsoftware/wiki/Week-10:-Inclusive,-participatory-technologies) 
