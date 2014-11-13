@@ -3,9 +3,9 @@ Spring 2015 at SUNY Purchase
 MAT 3540/4 credits  
 Tuesday 2.30-6.10  
 
-Course wiki: https://github.com/tegacodes/socialsoftware/wiki
+Course wiki: https://github.com/tegacodes/socialsoftware/wiki  
 Class tumblr: http://socialsoftware2015.tumblr.com/  
-Google group mailing list:  TBA
+Google group mailing list:  TBA  
 
 We now spend more time with our devices than we do with our friends and loved ones. We sleep next to these little computers and imagine their vibrations in our pockets. Our daily social interactions are increasingly mediated by these machines – their glowing interfaces promising new forms of intimacy and connection. How are these technologies changing how we relate each other? Are they enabling us to build better relationships and understand ourselves in new ways? How are artists, technologists and researchers exploring the possibilities offered by computation for both individual and collective change? This course investigates these questions both from critical, creative and technical perspectives.
 
