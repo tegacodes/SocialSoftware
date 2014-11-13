@@ -48,6 +48,8 @@ Jonze, Spike. (2012). Her (Feature Film)
 **Readings**  
 Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry.  
 
+Oliver, Savičić and Vasiliev. (2011). Critical Engineering Manifesto. [Online here.](http://criticalengineering.org/).  
+
 Deleuze, Gilles. Postscript on control societies. 1972-1990 (1995). October, Vol. 59. (Winter, 1992), pp. 3-7.
 
 Galloway, Alexander R. (2004). Protocol: how control exists after decentralization. MIT press. Introduction.  
