@@ -46,7 +46,7 @@ Jonze, Spike. (2012). Her (Feature Film)
 [Technologies for inclusion and participation](https://github.com/tegacodes/socialsoftware/wiki/Week-10:-Inclusive,-participatory-technologies) 
 
 **Readings**  
-Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry.  
+Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry. [Online here.](http://thenewinquiry.com/essays/the-anxieties-of-big-data/) 
 
 Oliver, Savičić and Vasiliev. (2011). Critical Engineering Manifesto. [Online here.](http://criticalengineering.org/).  
 
