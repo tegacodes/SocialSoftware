@@ -67,3 +67,4 @@ Servi Documentation - https://github.com/antiboredom/servi.js/wiki
 Convert from Processing to p5.js - https://github.com/lmccart/p5.js/wiki/Processing-transition  
 How to build your own wifi router - https://github.com/occupyhere/occupy.here/wiki/How-to-build-Occupy.here  
 Packet Sniffing Tutorial - http://suryamattu.com/PACKET-SNIFFING-TUTORIAL  
+Build your own internet - https://github.com/occupyhere/occupy.here/wiki/How-to-build-Occupy.here  
