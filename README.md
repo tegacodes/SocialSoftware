@@ -24,7 +24,7 @@ Attendance and participation (20%)
 **Readings**    
 Bishop, Claire (2006). The Social Turn, Collaboration and its discontents. Art Forum.  
 
-Shirky, Clay. (2012) "Gin, Television, and Social Surplus." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [https://archive.org/details/TheSocialMediaReader]    
+Shirky, Clay. (2012) "Gin, Television, and Social Surplus." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [Online here](https://archive.org/details/TheSocialMediaReader)    
 
 Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/blprnt/art-and-the-api  
 
@@ -36,7 +36,7 @@ Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/b
 **Readings**   
 Turkle, Sherry. (2012). Alone together: Why we expect more from technology and less from each other. Basic books. Introduction. 
 
-boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [https://archive.org/details/TheSocialMediaReader]  
+boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [Online here]([https://archive.org/details/TheSocialMediaReader)  
 
 Jonze, Spike. (2012). Her (Feature Film)  
 
