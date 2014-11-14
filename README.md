@@ -34,7 +34,7 @@ Gladwell, Malcom. (2010). Small Change. The New Yorker. [Online here.] (http://w
 Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/blprnt/art-and-the-api  
 
 <h4>Help || Hinderance: mediating social interaction and identity </h4>  
-[Performing identity](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
+[Performing identity](https://github.com/tegacodes/socialsoftware/wiki/Week-6:-Performing-Identity)  
 [Experimental social interaction](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
 [Social prosthetics](https://github.com/tegacodes/socialsoftware/wiki/Week-8:-Social-prosthetics)  
 
