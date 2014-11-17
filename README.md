@@ -24,6 +24,7 @@ Attendance and participation (20%)
 [Social prosthetics](https://github.com/tegacodes/socialsoftware/wiki/Week-8:-Social-prosthetics)  
 
 **Readings**  
+
 boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [Online here]([https://archive.org/details/TheSocialMediaReader)  
 
 Jonze, Spike. (2012). Her (Feature Film)
@@ -36,7 +37,8 @@ Turkle, Sherry. (2012). Alone together: Why we expect more from technology and l
 [Art, participation and engagement](https://github.com/tegacodes/socialsoftware/wiki/Week-1:-Art-and-Social-Practice)  
 [Social computing](https://github.com/tegacodes/socialsoftware/wiki/Week-2:-Social-Computing)  
 [Intervention, bots and intelligence](https://github.com/tegacodes/socialsoftware/wiki/Week-3:-Intervention,-bots-and-intelligence)  
-**Readings**  
+**Readings**
+
 Bishop, Claire (2006). The Social Turn, Collaboration and its discontents. Art Forum.  
 
 Shirky, Clay. (2008). Here comes everyone: The Power of Organizing without Organizisation. New York: Penguin Press. (Chapter 1).  
@@ -46,27 +48,13 @@ Shirky, Clay. (2012). "Gin, Television, and Social Surplus." The Social Media Re
 Gladwell, Malcom. (2010). Small Change. The New Yorker. [Online here.] (http://www.newyorker.com/magazine/2010/10/04/small-change-3)  
 Thorp, Jerr. (2013). Art and the API. Online here: http://blog.blprnt.com/blog/blprnt/art-and-the-api  
 
-<<<<<<< HEAD
-=======
-<h4>Help || Hinderance: mediating social interaction and identity </h4>  
-[Performing identity](https://github.com/tegacodes/socialsoftware/wiki/Week-6:-Performing-Identity)  
-[Experimental social interaction](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
-[Social prosthetics](https://github.com/tegacodes/socialsoftware/wiki/Week-8:-Social-prosthetics)  
-
-**Readings**
-Turkle, Sherry. (2012). Alone together: Why we expect more from technology and less from each other. Basic books. Introduction.
-
-boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [Online here]([https://archive.org/details/TheSocialMediaReader)  
-
-Jonze, Spike. (2012). Her (Feature Film)  
-
->>>>>>> 95af10924e4932f5711343355cdd9a2dff17b070
 <h4>Politics of Social Technologies - eccentric engineering and other tactics for change</h4>  
 [Digital labor and modes of production](https://github.com/tegacodes/socialsoftware/wiki/Week-11:-Digital-Labor-and-Modes-of-Production)  
 [But I've got nothing to hide](https://github.com/tegacodes/socialsoftware/wiki/Week-12:-But-I've-got-nothing-to-hide!)  
 [Technologies for inclusion and participation](https://github.com/tegacodes/socialsoftware/wiki/Week-10:-Inclusive,-participatory-technologies)
 
-**Readings**
+**Readings**  
+
 Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry. [Online here.](http://thenewinquiry.com/essays/the-anxieties-of-big-data/)
 
 Oliver, Savičić and Vasiliev. (2011). Critical Engineering Manifesto. [Online here.](http://criticalengineering.org/).  
