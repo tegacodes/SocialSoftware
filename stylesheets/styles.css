@@ -21,7 +21,9 @@ h1, h2, h3 {
 }
 
 h1 {
+  font:'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size:28px;
+  text-decoration:none;
 }
 
 h2 {
@@ -33,7 +35,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#a6004a;
   font-weight:400;
   text-decoration:none;
 }
