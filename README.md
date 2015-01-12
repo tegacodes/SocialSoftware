@@ -9,15 +9,44 @@ Google group mailing list:  TBA
 
 We now spend more time with our devices than we do with our friends and loved ones. We sleep next to these little computers and imagine their vibrations in our pockets. Our daily social interactions are increasingly mediated by these machines – their glowing interfaces promising new forms of intimacy and connection. How are these technologies changing how we relate each other? Are they enabling us to build better relationships and understand ourselves in new ways? How are artists, technologists and researchers exploring the possibilities offered by computation for both individual and collective change? This course investigates these questions both from critical, creative and technical perspectives.
 
-Through an exploration of practice and theory, students will enhance their creative and technical skills by developing a series of creative online and offline works. Projects will explore how computational technologies shape and are shaped by our social norms, human desires and behaviours, ranging from conceptual proposals through to the development basic software applications that interact with data and online media platforms.
+Through an exploration of practice and theory, students will enhance their creative and technical skills by developing a series of creative online and offline works. Projects will explore how computational technologies shape and are shaped by our social norms, human desires and behaviours, ranging from conceptual proposals through to the development basic software applications that interact with data and online media platforms.  
+  
+Prerequisties: Programming for Visual Artists or Programming for Games.  
 
-<h3>Assessment </h3>
-Assignment 1, 2 and 3 (20% each)  
-Homework (20%)  
-Attendance and participation (20%)  
+Ethos and Practice
 
-<h3>Topics</h3>
+This is a studio course and as such you will be expected to experiment, read, discuss and make. We will be doing some experimental works that may involve performance and on the ground personal research.   
 
+We will also be doing some programming using the Python language. Why Python? Because it’s easy to learn, it makes text processing easy and is flexible in its applications. It is marvelous.   
+
+
+<h3>Grading Policy </h3>  
+Assignment 1, 2 and 3 (30%)   
+Homework (30%)   
+Attendance and participation (30%)  
+Reading (10%)  
+
+<h3>Reading </h3>    
+Reading material will be assigned for many weeks. Readings will be made available either as links to documents on the web or via the dropbox. Generally, the first twenty to thirty minutes of each class will be devoted to a discussion of the reading.  
+
+
+- do i want them to blog?
+<h3>Homework and Assignment Expectations</h3>    
+
+<h3>In-class behavior</h3>  
+
+Laptops must be closed while your fellow students are presenting work. You're otherwise welcome to use laptops in class, but only to follow along with the in-class tutorials and to take notes.
+
+<h3>Attendance</h3>  
+You are expected to attend all class sessions. Absences due to non-emergency situations will only be cleared if you let me know a week (or more) in advance, and even then only for compelling personal or professional reasons (e.g., attending an important conference, going to a wedding). If you're unable to attend class due to contagious or incapacitating illness, please let me know (by phone or e-mail) before class begins.
+
+Each unexcused absence will deduct 5% from your final grade. If you have three or more unexcused absences, you risk failing the course.
+
+Be on time to class. If you're more than fifteen minutes late, or if you leave early (without clearance), it will count as an unexcused absence.
+
+
+<h3>Topics</h3>  
+  
 <h4>Help || Hinderance: mediating social interaction and identity </h4>  
 [Performing identity](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
 [Experimental social interaction](https://github.com/tegacodes/socialsoftware/wiki/Week-7:-Experimental-social-interactions)  
