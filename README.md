@@ -3,7 +3,7 @@ Spring 2015 at SUNY Purchase
 MAT 3540/4 credits  
 Tuesday 2.30-6.10  
 
-Course website: https://www.courses.tegabrain.com/SS15/?page_id=6
+Course website: https://www.courses.tegabrain.com/SS15/?page_id=6  
 Class tumblr: http://socialsoftware2015.tumblr.com/  
 Google group mailing list:  TBA  
 
@@ -42,7 +42,7 @@ Each unexcused absence will deduct 5% from your final grade. If you have three o
 Be on time to class. If you're more than fifteen minutes late, or if you leave early (without clearance), it will count as an unexcused absence.
 
 
-<h3>Topics</h3>  
+<h3>Readings</h3>  
 
 boyd, danah. (2011). "Participating in the Always-On Lifestyle." The Social Media Reader (ed. Michael Mandiberg), pp. 71-76. [Online here]([https://archive.org/details/TheSocialMediaReader)  
 
