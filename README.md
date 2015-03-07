@@ -94,7 +94,7 @@ Politics of the English language – https://www.mtholyoke.edu/acad/intrel/orwel
 
 <b>10 – Mar 26: Field Trip – Security and Surveillance</b>   
 
-Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry.  
+Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry. http://thenewinquiry.com/essays/the-anxieties-of-big-data/ 
 Art, Activism and CCTV – http://www.joannemcneil.com/art-activism-and-cctv/  
 
 <b>11 – Apr 9: Social Automation – bots bots bots</b>   
