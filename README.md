@@ -25,6 +25,9 @@ Assignment 1, 2 and 3 (60%)
 Attendance and homework (20%)  
 Reading (20%)  
 
+<h3>Assignments</h3>  
+The assignment tasks for 2014 are listed <a href="">here.</a> They are each worth 20% of your final grade.
+
 <h3>Topics</h3>  
 
 <b>1 – January 22: Overview, social performance, signaling and interaction</b>   
