@@ -22,6 +22,4 @@ Due: Assessment 3 due Week 14
 
 Work as individual or pairs
 
-Aim of the Assignment
-
-This assignment requires you to propose and make a social media bot that explores a particular issue, character, idea, emotion or source text. You can run it either from your computer or from a server or from an service like IFTTT. Your bot should explore online social conventions and our  expectations of online interactions and/or platforms in some way. Your bot might deliberately breach social conventions, creatively explore a selected text, animate or anthropomorphize a data set or bring a character/narrative/argument/emotion to life. This task requires you to prepare a proposal, and do some basic programming or prototyping (or equivalent) and deploy a bot in public.
+Descriptiong: This assignment requires you to propose and make a social media bot that explores a particular issue, character, idea, emotion or source text. You can run it either from your computer or from a server or from an service like IFTTT. Your bot should explore online social conventions and our expectations of online interactions and/or platforms in some way. Your bot might deliberately breach social conventions, creatively explore a selected text, animate or anthropomorphize a data set or bring a character/narrative/argument/emotion to life. This task requires you to prepare a proposal, and do some basic programming or prototyping (or equivalent) and deploy a bot in public.
