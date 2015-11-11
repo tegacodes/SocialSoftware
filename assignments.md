@@ -1,4 +1,4 @@
-<h1>Assignments<h1>
+<h1>Assignments</h1>
 
 <h2>ASSESSMENT 1: Experimentation, Documentation and Reflection (20%)</h2>
 
