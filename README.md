@@ -26,7 +26,7 @@ Attendance and homework (20%)
 Reading (20%)  
 
 <h3>Assignments</h3>  
-The assignment tasks for 2014 are listed <a href="">here.</a> They are each worth 20% of your final grade.
+The assignment tasks for 2014 are listed <a href="https://github.com/tegacodes/SocialSoftware/blob/master/assignments.md">here.</a> They are each worth 20% of your final grade.
 
 <h3>Topics</h3>  
 
