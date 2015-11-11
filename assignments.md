@@ -1,12 +1,12 @@
-ASSIGNMENTS
+<h1>Assignments<h1>
 
-ASSESSMENT 1: EXPERIMENTATION, DOCUMENTATION AND REFLECTION (20%)
+<h2>ASSESSMENT 1: Experimentation, Documentation and Reflection (20%)</h2>
 
 Due: Part A: due week 5, Part B: due week 12
 
 Description: You are to document and reflect on the social interventions, exercises and tutorial work conducted throughout the term. You will make weekly reflective posts to this blog, exploring your work each week. These posts might reflect and analyze your experience undertaking each of weekly class exercises, how these experiments relate to the readings and/or a discussion of the readings in relation to your own personal research. Your posts should be between 250-500 words each and each post should be tagging with the week number #week1, #week2, #week3 etc (all lower case and one word). Please write and edit these posts in a word processing program before posting to this blog – this will enable you to pick up spelling and grammatical errors more easily.
 
-ASSESSMENT 2: SOCIAL PROSTHETIC (20%)
+<h2>ASSESSMENT 2: Social Prosthetics (20%) </h2>
 
 Due: Week 10
 
@@ -16,7 +16,7 @@ Read Dunne and Raby’s, <a href="http://www.paulos.net/teaching/2009/AE/reading
 
 Your project should be a prototype, a proof of concept realization of your idea.
 
-ASSESSMENT 3: ART AND THE API (20%)
+<h2>ASSESSMENT 3: Art and the API (20%)</h2>
 
 Due: Assessment 3 due Week 14
 
