@@ -17,7 +17,7 @@ Ethos and Practice
 
 This is a studio course and as such you will be expected to experiment, read, discuss and make. We will be doing some experimental works that may involve performance and personal research.   
 
-We will also be doing some programming using the Python language. Why Python? Because it’s easy to learn, it makes text processing easy and is flexible in its applications. It is marvelous.   
+We will also be doing some programming using the Python language. Why Python? Because it’s easy to learn, it makes text processing easy and is flexible in its applications. 
 
 
 <h3>Grading Policy </h3>  
