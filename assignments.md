@@ -12,7 +12,7 @@ Due: Week 10
 
 Description: In this project you will develop a prototype for an experimental social prosthetic, this will be a data driven object/device/wearable performs for or communicates with its user in some way. Your object will help, hinder or provoke its user, aiming to shift behavior.
 
-Read Dunne and Raby’s, The Secret Life of Electronic Objects to kick off your thinking. Dunne and Raby remind us that your prototype will act on the perception and psychology of the user. Think also about the technological narratives you use in order to explain and relate to your prototype. Also read Sara Hendren’s article – “All Technology Is Assistive: Six Design Rules on ‘Disability.'”
+Read Dunne and Raby’s, <a href="http://www.paulos.net/teaching/2009/AE/readings/protected/DesignNoirPlacebo.pdf">Design Noir: The Secret Life of Electronic Objects </a> to kick off your thinking. Dunne and Raby remind us that your prototype will act on the perception and psychology of the user. Think also about the technological narratives you use in order to explain and relate to your prototype. Also read Sara Hendren’s article – <a href="https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd">"All Technology Is Assistive: Six Design Rules on ‘Disability.'”</a>
 
 Your project should be a prototype, a proof of concept realization of your idea.
 
