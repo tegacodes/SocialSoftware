@@ -15,7 +15,7 @@ Prerequisties: Programming for Visual Artists or Programming for Games.
 
 Ethos and Practice  
 
-This is a studio course and as such you will be expected to experiment, read, discuss and make. We will be doing some experimental works that may involve performance and personal research.   
+This is a studio course and as such you will be expected to experiment, read, discuss and make. We will be doing some experimental works that will involve performance and personal research.   
 
 We will also be doing some programming using the Javascript language, specifically using <a href="http://p5js.org/">p5.js</a> and <a href="https://nodejs.org/en/">node.js</a>.
 
