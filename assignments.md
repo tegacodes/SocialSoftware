@@ -16,7 +16,7 @@ Read Dunne and Raby’s, <a href="http://www.paulos.net/teaching/2009/AE/reading
 
 Your project should be a prototype, a proof of concept realization of your idea.
 
-<h2>3: Art and the API (20%)</h2>
+<h3>3: Art and the API (20%)</h3>
 
 Due: Assessment 3 due Week 14
 
