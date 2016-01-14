@@ -125,3 +125,4 @@ Gladwell, Malcom. (2010). Small Change. The New Yorker. (http://www.newyorker.co
 - <a href="https://github.com/lmccart/itp-convo-comp">Conversation and Computation, Lauren McCarthy</a>  
 - <a href="http://courses.ischool.berkeley.edu/i290m-ocpp/site/syllabus.html">Open Collaboration and Peer Production, 2013. Sebastian Benthall, Thomas Maillart and John Chuang</a>   
 - <a href="https://github.com/tchoi8/PerformingParticipation">Performing Participation, 2015, Taeyoon Choi</a>. This is focused on performance art, relational aesthetics and social practice.  
+- <a href="http://cultureandcommunication.org/galloway/2010fall-Politics_of_Code_syllabus.pdf">Politics of Code, Alexander Galloway, 2010. </a> Critical theory and software studies. 
