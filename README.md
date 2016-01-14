@@ -118,10 +118,10 @@ Gladwell, Malcom. (2010). Small Change. The New Yorker. (http://www.newyorker.co
 <b>14 – Apr 30: Assignment 3 is due  </b>  
 
 
-<h3>Related </h3>
-Related Syllabus
-*<a href="https://itp.nyu.edu/varwiki/Syllabus/Designing-Conversational-Spaces-S11"> Designing Conversational Spaces, Clay Shirky, 2011.</a>  
-*<a href="https://github.com/lmccart/SocialHacking">Appropriating Interaction Technologies, Lauren McCarthy and Kyle McDonald, ongoing. </a>  
-*<a href="https://github.com/lmccart/itp-convo-comp">Conversation and Computation, Lauren McCarthy</a>  
-*<a href="http://courses.ischool.berkeley.edu/i290m-ocpp/site/syllabus.html">Open Collaboration and Peer Production, 2013. Sebastian Benthall, Thomas Maillart and John Chuang</a>   
-*<a href="https://github.com/tchoi8/PerformingParticipation">Performing Participation, 2015, Taeyoon Choi</a>. This is focused on performance art, relational aesthetics and social practice.  
+<h3>Related Syllabus</h3>
+ 
+- <a href="https://itp.nyu.edu/varwiki/Syllabus/Designing-Conversational-Spaces-S11"> Designing Conversational Spaces, Clay Shirky, 2011.</a>  
+- <a href="https://github.com/lmccart/SocialHacking">Appropriating Interaction Technologies, Lauren McCarthy and Kyle McDonald, ongoing. </a>  
+- <a href="https://github.com/lmccart/itp-convo-comp">Conversation and Computation, Lauren McCarthy</a>  
+- <a href="http://courses.ischool.berkeley.edu/i290m-ocpp/site/syllabus.html">Open Collaboration and Peer Production, 2013. Sebastian Benthall, Thomas Maillart and John Chuang</a>   
+- <a href="https://github.com/tchoi8/PerformingParticipation">Performing Participation, 2015, Taeyoon Choi</a>. This is focused on performance art, relational aesthetics and social practice.  
