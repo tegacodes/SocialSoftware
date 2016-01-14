@@ -97,13 +97,13 @@ Politics of the English language – https://www.mtholyoke.edu/acad/intrel/orwel
 
 <b>10 – Mar 26: Field Trip – Security and Surveillance</b>   
 
-Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry. http://thenewinquiry.com/essays/the-anxieties-of-big-data/ 
+Crawford, Kate. (2014). The Anxieties of Big Data. The New Enquiry. http://thenewinquiry.com/essays/the-anxieties-of-big-data/   
 Art, Activism and CCTV – http://www.joannemcneil.com/art-activism-and-cctv/  
-
+  
 <b>11 – Apr 9: Social Automation – bots bots bots</b>   
-
+  
 Readings for this week:   
-
+  
 Jonze, Spike (2012). Her (Feature Film) – Trailer here.  
 How to become internet famous for $68 – https://medium.com/@kevin_ashton/how-to-become-internet-famous-for-68-828ed0b249cf
 What isn’t automated? This article on content moderation is essential reading: http://www.wired.com/2014/10/content-moderation/  
@@ -117,3 +117,11 @@ Gladwell, Malcom. (2010). Small Change. The New Yorker. (http://www.newyorker.co
 
 <b>14 – Apr 30: Assignment 3 is due  </b>  
 
+
+<h3>Related </h3>
+Related Syllabus
+*<a href="https://itp.nyu.edu/varwiki/Syllabus/Designing-Conversational-Spaces-S11"> Designing Conversational Spaces, Clay Shirky, 2011.</a>
+*<a href="https://github.com/lmccart/SocialHacking">Appropriating Interaction Technologies, Lauren McCarthy and Kyle McDonald, ongoing. </a>
+*<a href="https://github.com/lmccart/itp-convo-comp">Conversation and Computation, Lauren McCarthy</a>
+*<a href="http://courses.ischool.berkeley.edu/i290m-ocpp/site/syllabus.html">Open Collaboration and Peer Production, 2013. Sebastian Benthall, Thomas Maillart and John Chuang</a> 
+*<a href="https://github.com/tchoi8/PerformingParticipation">Performing Participation, 2015, Taeyoon Choi</a>. This is focused on performance art, relational aesthetics and social practice.
